@@ -13,7 +13,5 @@ https://personal-portfolio-website-pi.vercel.app/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand058&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Aanand058&icon=8&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
