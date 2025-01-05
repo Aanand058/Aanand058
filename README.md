@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Aanand Aman, a passionate computer science student with a deep interest in software development and problem-solving. I love exploring the intricacies of technology and discovering innovative ways to leverage it for real-world applications.
+Hello! I'm Aanand Aman, a passionate computer science graduate with a deep interest in software development and problem-solving. I love exploring the intricacies of technology and discovering innovative ways to leverage it for real-world applications.
 
 # Portfolio Site: 
 https://aanand058.github.io/Personal-Portfolio/
