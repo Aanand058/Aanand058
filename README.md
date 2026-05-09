@@ -109,7 +109,7 @@ I'm a passionate **Computer Science graduate** and **Software Developer** with a
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aanand058&style=flat-square&color=4F8CC9" alt="Profile Views" />
+
   
   *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just have a chat about technology.*
 </div>
