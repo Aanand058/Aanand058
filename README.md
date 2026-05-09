@@ -66,15 +66,7 @@ I'm a passionate **Computer Science graduate** and **Software Developer** with a
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aanand058&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand058&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=FFFFFF" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aanand058&theme=radical&hide_border=true&background=0D1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakNum=FFFFFF&currStreakLabel=4F8CC9&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Connect With Me
 
