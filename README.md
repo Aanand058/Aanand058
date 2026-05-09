@@ -11,7 +11,7 @@ I'm a passionate **Computer Science graduate** and **Software Developer** with a
 - 🔭 I'm currently working on **backend systems and APIs**
 - 🌱 I'm learning **cloud technologies** and **DevOps practices**
 - 💬 Ask me about **backend development** or **web technologies**
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/aanand-a-52b4b2148) | [Twitter](https://twitter.com/yamit058)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/aanand-a-52b4b2148) | 
 - 🌐 Check out my portfolio: [aanand058.github.io/Personal-Portfolio/](https://aanand058.github.io/Personal-Portfolio/)
 
 ## 🛠️ Tech Stack
